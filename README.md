@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Alirezaalireza77
 - 👀 I’m interested in technologies and programming languages
 - 🌱 I’m currently learning web developing by django web framework but I like to learn about hack, Machine Learning, AI and everything in geeks world.
-- also you can access me on alireza.hashemian77@gmail.com
+
 
 
 <!---
