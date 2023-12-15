@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Alirezaalireza77
 - 👀 I’m interested in technologies and programming languages
-- 🌱 I’m currently learning web develope by djang but I like to learn about hack, ml, ai and everything in geeks world.
+- 🌱 I’m currently learning web develope by django but I like to learn about hack, Machine Learning, AI and everything in geeks world.
 
 
 <!---
